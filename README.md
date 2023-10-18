@@ -10,9 +10,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenni-bertucat-3b987381)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=bertuck&icon=0&color=0)](https://visitcount.itsvg.in)
 
